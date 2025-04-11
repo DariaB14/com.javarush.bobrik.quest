@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('/images/start.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; /* предотвращает повторение изображения */
+}
+
+h1, h2, h3, h4, p {
+    color: #fff;
+    text-align: center;
+}
+
+form, .session {
+    margin: 20px auto; /* центрирует элемент на странице */
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    width: 300px;
+    color: #fff;
+    text-align: center;
+}
+
+img {
+    display: none;
+}
+
+
+
+
+
